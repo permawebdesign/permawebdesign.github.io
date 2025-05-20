@@ -1,0 +1,52 @@
+/* Header - Menu */
+#header .logo img{
+    max-height: 80px;
+}
+
+body{
+    /*background: linear-gradient( 180deg , #FF6A4B 7%, rgb(255 255 255 / 0%) 1%);*/
+    background-color: white;
+}
+
+.section-title p{
+    color: #222;
+}
+
+/* services */
+
+.services .icon-box p{
+    color: #222;
+}
+
+
+/*portfolio*/
+
+.portfolio .portfolio-wrap .portfolio-info p{
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+/* tarif */
+
+.modalites-box {
+  background-color: #f9f9f9;
+  padding: 2rem;
+  border-left: 4px solid #7cc576; /* vert doux */
+  margin-top: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+.modalites-box h4 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.modalites-box p {
+  margin: 0;
+  line-height: 1.6;
+  color: #555;
+  font-size: 1rem;
+}
